@@ -15,28 +15,28 @@ Sentences have the format:
 File names indicate the callsign, color, and number in the sentence.
   Such that "030205.wav" contains "Hopper", "White", and "Six".
 Callsigns: 
-  00 - Charlie
-  01 - Ringo
-  02 - Laker
-  03 - Hopper
-  04 - Arrow
-  05 - Tiger
-  06 - Eagle
-  07 - Baron
+  00:Charlie
+  01:Ringo
+  02:Laker
+  03:Hopper
+  04:Arrow
+  05:Tiger
+  06:Eagle
+  07:Baron
 
 Colors:
-  00 - Blue
-  01 - Red
-  02 - White
-  03 - Green
+  00:Blue
+  01:Red
+  02:White
+  03:Green
 
 Numbers:
-  00 - One
-  01 - Two
-  02 - Three
-  03 - Four
-  04 - Five
-  05 - Six
-  06 - Seven
-  07 - Eight
+  00:One
+  01:Two
+  02:Three
+  03:Four
+  04:Five
+  05:Six
+  06:Seven
+  07:Eight
 
