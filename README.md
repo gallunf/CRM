@@ -13,7 +13,9 @@ Sentences have the format:
   "Ready [Callsign] go to [Color] [Number] now."
   
 File names indicate the callsign, color, and number in the sentence.
-  Such that "030205.wav" contains "Hopper", "White", and "Six".
+  
+For example, "030205.wav" contains "Hopper", "White", and "Six".
+
 Callsigns: 
   00:Charlie
   01:Ringo
