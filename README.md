@@ -1,6 +1,6 @@
 # CRM
 Coordinate Response Measure (CRM) wavefiles
-The files are available as .zip files in the "Release", due to space limitations in repositories
+The files are available as .zip files as "Releases", due to space limitations in repositories
 
 Note that two versions of the corpus are available for download as .zip archives in the “Release” section, both in the “original” format, with a 20 kHz sampling rate, and in the “broadband” format with 44.1 kHz sampling rate.
 
