@@ -7,6 +7,9 @@ Note that two versions of the corpus are available for download as .zip archives
 For more information on this corpus, see the ASA Paper:
 Bolia, R.S.; Nelson, W.T.; Ericson, M.A.; Simpson, B.D. (2000).  A speech corpus for multitalker communications research.  J. Acoust. Soc. Am. 107, 1065 (2000).
 
+A large number of papers have been published that use the CRM, a few of which are included in this repository as well as the Bolia et al. (2000)
+
+Details of the Corpus (for recording and processing, see Bolia et al., 2000):
 There are eight talkers, four male and four female. Each speaks 256 sentences.
 
 Sentences have the format:
